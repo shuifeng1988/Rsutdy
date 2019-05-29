@@ -1,2 +1,3 @@
 # Rsutdy
-R packages study 
+R packages study
+doc/ includes some introduction of R packages 
